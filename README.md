@@ -61,6 +61,9 @@
  
  ### שיפור ממשל
  
+ ### פודטק
+ 
+ 
  
  ## איך אפשר לעזור?
  קודם כל תודה! שנית, שווה להסתכל על המשימות הפתוחות של הRepo [כאן](https://github.com/agamm/impact-israel-jobs/labels/help%20wanted).
