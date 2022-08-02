@@ -1,5 +1,5 @@
 # משרות הייטק אימפקט
-הלוח כרגע נמצא בבנייה, הטקסט והאופרציה כנראה ישתנו עם הזמן - מוזמנים לתרום עם [PR](https://www.youtube.com/watch?v=rgbCcBNZcdQ).
+🚧 הלוח כרגע נמצא בבנייה, הטקסט והאופרציה כנראה ישתנו עם הזמן - מוזמנים לתרום עם [PR](https://www.youtube.com/watch?v=rgbCcBNZcdQ).
 
 ## הנחברות
 - כאן יוצגו 3 החברות הכי טובות לפי הדירוג שלהן.
