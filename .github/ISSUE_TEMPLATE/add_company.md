@@ -1,5 +1,5 @@
 ---
-name: הוספת חברה
+name: add_company
 about: שאלון להוספת חברה חדשה
 title: הוספת חברה: שם כאן
 labels: new-company
