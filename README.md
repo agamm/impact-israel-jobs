@@ -1,7 +1,7 @@
 # משרות הייטק אימפקט
 🚧 הלוח כרגע נמצא בבנייה, הטקסט והאופרציה כנראה ישתנו עם הזמן - מוזמנים לתרום עם [PR](https://www.youtube.com/watch?v=rgbCcBNZcdQ).
 
-## הנחברות
+## הנבחרת
 - כאן יוצגו 3 החברות הכי טובות לפי הדירוג שלהן.
 - בעתיד יוצגו למעלה גם חברות שתומכות בפרוייקט (בנפרד).
 
@@ -27,6 +27,7 @@
 כל חברה שתרצה להוסיף את עצמה תצטרך לענות על השאלות הנ"ל ותתקבל בצורה שקופה דרך Issue כאן.
 
 ## חברות
+כדי להוסיף חברה חדשה, לחצו [כאן](https://github.com/agamm/impact-israel-jobs/issues/new?assignees=&labels=new-company&template=---------------.md&title=%D7%94%D7%95%D7%A1%D7%A4%D7%AA+%D7%97%D7%91%D7%A8%D7%94+%D7%97%D7%93%D7%A9%D7%94+%5B%D7%A9%D7%9D+%D7%9B%D7%90%D7%9F%5D).
 
 ### קיימות סביבתית
 *חברות שמנסות לשפר את מצב איכות הסביבה*
